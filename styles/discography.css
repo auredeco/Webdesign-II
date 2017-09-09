@@ -1,0 +1,32 @@
+.container {
+	width:960px;
+	height:auto;
+	min-height:2500px;
+	margin: 0 auto 0 auto;
+	background:url(images/background-containerbig.jpg);
+	background-position:center;
+	border-display:inline;
+}
+
+.cover {
+	width:400px;
+	height:400px;
+	float:left;
+	border:1px solid gray;
+}
+
+.albumtitle {
+	float:left;
+	margin:0 2%;
+	color:#f9b836;
+	width:50%;
+}
+
+table {
+		float:left;
+		margin:2% 0 0 3%;
+}
+
+.line {
+	margin:2% 0;
+}

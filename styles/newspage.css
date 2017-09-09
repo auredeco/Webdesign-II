@@ -1,0 +1,49 @@
+.container {
+	width:960px;
+	height:1700px;
+	max-height:2000px;
+	margin: 0 auto 0 auto;
+	background:url(images/background-containerkopie.png);
+	background-position:center;
+	border-display:inline;
+}
+
+.newstitle {
+	margin:2% 0 0 6.1%;
+	color:#f9b836;
+	font-size:1.8em;
+	width:100%;
+}
+
+.datetitle {
+	color:#407191;
+	margin:-10px 0 0 6.1%;
+	font-family: myFirstFont;
+	float:left;
+}
+
+figure {
+	width:800px;
+	margin: 0 auto 0 auto;
+}
+
+#newstext {
+	margin:2% 6.1%;
+	width:800px;
+}
+
+#newsfooter {
+	margin:300px 0 0 -24px;
+	width:960px;
+}
+
+#link {
+		color:#f9b836;;
+}
+
+.breadcrumb {
+	font-size:0.7em;
+	color:gray;
+	float:left;
+	margin:1% 0 0 11%;
+}
